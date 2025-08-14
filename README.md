@@ -2,7 +2,7 @@
 
 **Versão:** 1.0
 **Data:** 13 de agosto de 2025
-**Autor:** Jean Carlos
+**Autor:** Jean Carlos (Coordenador de TI do Polo)
 
 ## 1. Resumo Executivo
 
